@@ -156,6 +156,7 @@ main {
   color: var(--base-color);
 }
 
+
 /*=========================== NAVGATION ========================*/
 
 nav {
@@ -279,6 +280,8 @@ nav.show div.icon-close {
 #home .image {
   position: relative;
 }
+
+
 
 /*
   PSEUDO ELEMENT
