@@ -60,6 +60,14 @@ const swiper = new Swiper('.swiper-container', {
   
 });
 
+/**
+ * 
+ * Produtos slider / caroussel ...
+ * 
+*/
+
+
+
 
 /*SCROLL REVEL: MOSTRAR ELEMENTOS QUANDO FIZER SCROLL NA PAGINA
 */
